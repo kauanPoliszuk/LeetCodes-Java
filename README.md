@@ -30,6 +30,8 @@ O principal objetivo é registrar meu progresso em **algoritmos**, **estruturas 
 - **Linguagem principal:** Java (JDK 17+)
 - **Plataformas:** BeeCrowd (foco atual) + LeetCode
 - **Estrutura:** Organizado por plataforma
+- **IDE:** IntelliJ IDEA
+- **Foco:** Clean Code, Otimização de algoritmos e Complexidade
 
 ---
 
@@ -38,7 +40,7 @@ O principal objetivo é registrar meu progresso em **algoritmos**, **estruturas 
 Cada pasta de problema geralmente contém:
 
 - Código limpo e bem comentado
-- Análise de complexidade (Tempo e Espaço)
+- Análise de complexidade | Big O(n) & Big O(1)
 - Abordagem utilizada (quando relevante)
 
 **Exemplo atual:** `src/BeeCrowd/1011/` → Resolução do problema BeeCrowd 1011.
@@ -55,14 +57,6 @@ LeetCodes-Java/
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## 🛠️ Tecnologias
-
-- **Linguagem:** Java
-- **IDE:** IntelliJ IDEA
-- **Foco:** Clean Code, Otimização de algoritmos e Complexidade
 
 ---
 
