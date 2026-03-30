@@ -5,7 +5,7 @@
 
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/BeeCrowd-8B0000?style=for-the-badge" alt="BeeCrowd" />
+  <img src="https://img.shields.io/badge/BeeCrowd-7F00FF?logo=beecrowd&logoColor=black&style=for-the-badge" alt="BeeCrowd" />
 </div>
 
 ## Sobre o Repositório
