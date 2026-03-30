@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/BeeCrowd-8B0000?style=for-the-badge" alt="BeeCrowd" />
 </div>
 
----
-
 ## Sobre o Repositório
 
 Este repositório contém minhas **soluções em Java** dos problemas resolvidos no **LeetCode** e **BeeCrowd**.
