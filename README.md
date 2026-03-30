@@ -33,6 +33,16 @@ O principal objetivo é registrar meu progresso em **algoritmos**, **estruturas 
 
 ---
 
+## 📌 Como as soluções estão organizadas
+
+Cada pasta de problema geralmente contém:
+
+- Código limpo e bem comentado
+- Análise de complexidade (Tempo e Espaço)
+- Abordagem utilizada (quando relevante)
+
+**Exemplo atual:** `src/BeeCrowd/1011/` → Resolução do problema BeeCrowd 1011.
+
 ## 🗂️ Estrutura do Projeto
 
 ```bash
@@ -44,3 +54,21 @@ LeetCodes-Java/
 ├── LeetCodes-Java.iml
 ├── .gitignore
 └── README.md
+```
+
+---
+
+## 🛠️ Tecnologias
+
+- **Linguagem:** Java
+- **IDE:** IntelliJ IDEA
+- **Foco:** Clean Code, Otimização de algoritmos e Complexidade
+
+---
+
+## 🚀 Próximos Passos
+
+- [ ] Organizar soluções do LeetCode por categorias (Array, String, Dynamic Programming, Graph, etc.)
+- [ ] Adicionar explicações mais detalhadas nos problemas Medium/Hard
+- [ ] Criar índice de problemas resolvidos com dificuldade
+- [ ] Incluir estatísticas de progresso (Easy / Medium / Hard)
